@@ -2,7 +2,6 @@
 title: Juan Martinez
 subtitle: "Email: juanshf@sbcglobal.net | Cell Phone: 951.5366505"
 image: img/img_0053.jpg
-intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
