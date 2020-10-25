@@ -1,5 +1,5 @@
 ---
-title: Values
+title: Pricing
 image: img/furniture.jpg
 values:
   - heading: 3PC Easton S-L-C
