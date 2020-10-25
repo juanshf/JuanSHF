@@ -1,7 +1,7 @@
 ---
 title: Juan Martinez
 subtitle: "Email: juanshf@sbcglobal.net | Cell Phone: 951.5366505"
-image: img/about-direct-sourcing.jpg
+image: img/img_0053.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
